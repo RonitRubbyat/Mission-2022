@@ -84,6 +84,10 @@ body{
 
 /* section-3 */
 
+.sec-3{
+    background-image: url(images/shapes/shape-1.png);
+}
+
 .sec-3 div img{
     width: 70%;
 }

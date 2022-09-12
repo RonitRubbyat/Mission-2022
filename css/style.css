@@ -11,13 +11,13 @@ body{
     width: 50%;
 }
 
-.cont-mar{
-    margin-right: 20px;
+.cont-pad{
+    padding-right: 20px;
     width: 320px;
 }
 
-.img-mar{
-    margin-left: 200px;
+.img-pad{
+    padding-left: 200px;
 }
 
 .sec-1 img{
@@ -55,4 +55,28 @@ body{
 
 .flex img{
     width: 60%;
+}
+
+.sec-2-box-2{
+    margin-right: 20px;
+    border-radius: 20px;
+}
+
+.mission-color{
+    background-color: lavender;
+    padding: 0px 30px;
+}
+
+.vision-color{
+    background-color: pink;
+    padding: 0px 30px;
+}
+
+.goals-color{
+    background-color: beige;
+    padding: 0px 30px;
+}
+
+.para-width{
+    width: 310px;
 }

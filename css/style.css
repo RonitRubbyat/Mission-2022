@@ -1,3 +1,5 @@
+/* section-1 */
+
 body{
     font-family: 'Poppins', sans-serif;
     margin: 60px 100px;
@@ -13,7 +15,7 @@ body{
 
 .cont-pad{
     padding-right: 20px;
-    width: 320px;
+    width: 420px;
 }
 
 .img-pad{
@@ -21,7 +23,7 @@ body{
 }
 
 .sec-1 img{
-    width: 70%;
+    width: 90%;
 }
 
 .header-color-1{
@@ -33,10 +35,10 @@ body{
     border-image: linear-gradient(black, rgb(113, 113, 196));
     border-image-slice: 1;
     font-family: 'Playfair Display', serif;
-    font-size: xx-large;
-    width: 350px;
+    font-size: 40px;
+    width: 420px;
 }
-.sec-1 div a{
+.button{
     padding: 3px 20px;
     text-decoration: none;
     color: beige;
@@ -44,39 +46,52 @@ body{
     border-radius: 5px;
 }
 
-.sec-2 h2{
+/* section-2 */
+
+.sec-2 h1{
     text-align: center;
     color: rgb(43, 22, 22);
+    padding: 10px 0px;
+    font-weight: 700;
+    font-size: 50px;
 }
 
 .header-color-2{
     color:rgb(113, 113, 196);
 }
 
-.flex img{
+.flex-img{
     width: 60%;
 }
 
 .sec-2-box-2{
-    margin-right: 20px;
+    margin: 0px 20px 80px 0px;
+    padding: 5px 30px;
     border-radius: 20px;
 }
 
 .mission-color{
-    background-color: lavender;
-    padding: 0px 30px;
+    background-color: rgb(241, 241, 253);
 }
 
 .vision-color{
-    background-color: pink;
-    padding: 0px 30px;
+    background-color: rgb(255, 230, 233);
 }
 
 .goals-color{
     background-color: beige;
-    padding: 0px 30px;
 }
 
-.para-width{
-    width: 310px;
+/* section-3 */
+
+.sec-3 div img{
+    width: 70%;
 }
+
+.button{
+    padding: 3px 20px;
+    text-decoration: none;
+    color: beige;
+    background-image: linear-gradient(rgb(167, 167, 253), rgb(113, 113, 196));
+    border-radius: 5px;
+} 

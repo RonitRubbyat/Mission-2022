@@ -153,7 +153,7 @@ main{
 
 /* section-5 */
 
-.sec-5{
+.sec-5 .flex{
     margin-top: 20px;
     background-image: linear-gradient( rgb(212, 212, 252), white);
     border-radius: 5px;
@@ -171,4 +171,8 @@ main{
 .sec-5 h3{
     color: rgb(49, 49, 49);
     font-style: italic;
+}
+
+.sec-5 h1{
+    text-align: center;
 }

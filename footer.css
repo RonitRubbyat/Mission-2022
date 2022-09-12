@@ -1,0 +1,15 @@
+footer{
+    margin: 60px 0px;
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+
+footer h2{
+    font-family: 'Dancing Script', cursive;
+}
+
+footer span{
+    color: rgb(113, 113, 196);
+}

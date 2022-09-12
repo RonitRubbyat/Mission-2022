@@ -2,7 +2,8 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 60px 100px;
+    margin: 0px 40px;
+    padding: 0;
 }
 
 .flex{
@@ -11,6 +12,10 @@ body{
 
 .half-width{
     width: 50%;
+}
+
+.sec-1{
+    margin: 60px 100px;
 }
 
 .cont-pad{
@@ -47,6 +52,10 @@ body{
 }
 
 /* section-2 */
+
+.sec-2{
+    margin: 60px 100px;
+}
 
 .sec-2 h1{
     text-align: center;
@@ -86,6 +95,13 @@ body{
 
 .sec-3{
     background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left center;
+}
+
+.sec-3 .flex{
+    margin:  60px 100px;
 }
 
 .sec-3 div img{
@@ -99,3 +115,21 @@ body{
     background-image: linear-gradient(rgb(167, 167, 253), rgb(113, 113, 196));
     border-radius: 5px;
 } 
+
+/* section-4 */
+
+.sec-4 .flex{
+    margin:  60px 100px;
+}
+
+.sec-4 div img{
+    width: 95%;
+}
+
+.sec-4-cont-pad{
+    width: 880px;
+}
+
+.sec-4-img-pad{
+    padding-left: 20px;
+}

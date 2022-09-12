@@ -1,4 +1,4 @@
-footer{
+footer {
     margin: 60px 0px 0px;
     padding: 1px;
     background-color: black;
@@ -6,10 +6,10 @@ footer{
     text-align: center;
 }
 
-footer h2{
+footer h2 {
     font-family: 'Dancing Script', cursive;
 }
 
-footer span{
+footer span {
     color: rgb(113, 113, 196);
 }
